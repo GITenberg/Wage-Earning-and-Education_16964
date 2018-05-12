@@ -1,0 +1,30 @@
+_repo: Wage-Earning-and-Education_16964
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lutz, R. R. (Rufus Rolla)
+    alias: Lutz, Rufus Rolla
+    birthdate: 1873
+    gutenberg_agent_id: '7059'
+    url: http://www.gutenberg.org/2009/agents/7059
+description: ''
+gutenberg_issued: '2005-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16964'
+  lccn: '16026854'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Child labor -- Ohio -- Cleveland'
+- !lcc 'LA'
+- !lcsh 'Vocational education -- Ohio -- Cleveland'
+- !lcsh 'Public schools -- Ohio -- Cleveland'
+- !lcsh 'Industries -- Ohio -- Cleveland'
+title: Wage Earning and Education
+url: http://www.gutenberg.org/ebooks/16964
